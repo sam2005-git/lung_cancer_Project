@@ -1,6 +1,5 @@
 # lung_cancer_Project
 
-# Tomato Quality Prediction
 
 ## Description
 A Classification type model using *Random Forest Classifier* algorithm. 
